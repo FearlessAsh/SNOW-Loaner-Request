@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="depot" table="x_snc_loaner_reque_loaner_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New York</label>
+            <language>en</language>
+            <name>x_snc_loaner_reque_loaner_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-07 19:20:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ecfe9156d5e232007f4433c233af0a28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-07 19:20:49</sys_updated_on>
+            <value>ny</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>London</label>
+            <language>en</language>
+            <name>x_snc_loaner_reque_loaner_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-07 19:20:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8fe9156d5e232007f4433c233af0a2a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-07 19:20:49</sys_updated_on>
+            <value>london</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Buenos Aires</label>
+            <language>en</language>
+            <name>x_snc_loaner_reque_loaner_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-07 19:20:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24fe9156d5e232007f4433c233af0a2c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-07 19:20:49</sys_updated_on>
+            <value>ba</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Santa Clara</label>
+            <language>en</language>
+            <name>x_snc_loaner_reque_loaner_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-07 19:20:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6cfe9156d5e232007f4433c233af0a2d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-07 19:20:49</sys_updated_on>
+            <value>sc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Singapore</label>
+            <language>en</language>
+            <name>x_snc_loaner_reque_loaner_request</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-07 19:20:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4fe9156d5e232007f4433c233af0a2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-07 19:20:49</sys_updated_on>
+            <value>singapore</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sydney</label>
+            <language>en</language>
+            <name>x_snc_loaner_reque_loaner_request</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-07 19:20:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ecfe9156d5e232007f4433c233af0a30</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-07 19:20:49</sys_updated_on>
+            <value>sydney</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>depot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_snc_loaner_reque_loaner_request</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-07 19:20:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28fe9156d5e232007f4433c233af0a32</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-07 19:20:49</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>depot</element>
+            <name>x_snc_loaner_reque_loaner_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-07 19:20:49</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a4fe9156d5e232007f4433c233af0a2a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>depot</sys_name>
+            <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">531becd6d5a232007f4433c233af0aeb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Loaner Request">531becd6d5a232007f4433c233af0aeb</sys_scope>
+            <sys_update_name>sys_choice_x_snc_loaner_reque_loaner_request_depot</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-07 19:20:49</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
